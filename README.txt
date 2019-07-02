@@ -27,4 +27,11 @@ indent_style = lf
 
 yarn add eslint -D
 yarn eslint --init
+yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+
+MODULO05: 3-Roteamento no React
+yarn add react-router-dom
+
+MODULO05: 4-Styled Components
+yarn add styled-components
 
