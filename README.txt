@@ -35,3 +35,8 @@ yarn add react-router-dom
 MODULO05: 4-Styled Components
 yarn add styled-components
 
+MODULO05: 6-Estilizando página Main
+yarn add react-icons
+
+MODULO05: 7-Adicionando repositórios
+yarn add axios
