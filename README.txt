@@ -40,3 +40,6 @@ yarn add react-icons
 
 MODULO05: 7-Adicionando repositórios
 yarn add axios
+
+MODULO05: 12-Definindo PropTypes
+yarn add prop-types
